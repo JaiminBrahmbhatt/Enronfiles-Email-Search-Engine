@@ -54,18 +54,18 @@ Command: `./enron_search term`
 
 ## Sample Output
 `./enron_search Raised your issue`
-1.Phillip K Allen <phillip.allen@enron.com> Mon, 19 Mar 2001 01:36:00 -0800 (PST)
-2.Phillip K Allen <phillip.allen@enron.com> Mon, 26 Mar 2001 02:58:00 -0800 (PST)
-3.Phillip K Allen <phillip.allen@enron.com> Tue, 26 Sep 2000 09:26:00 -0700 (PDT)
-4.Phillip K Allen <phillip.allen@enron.com> Fri, 26 May 2000 07:19:00 -0700 (PDT)
-5.Phillip K Allen <phillip.allen@enron.com> Tue, 27 Mar 2001 03:37:00 -0800 (PST)
-6.Phillip K Allen <phillip.allen@enron.com> Tue, 26 Sep 2000 09:28:00 -0700 (PDT)
-7.Phillip K Allen <phillip.allen@enron.com> Thu, 11 Jan 2001 05:49:00 -0800 (PST)
-8.Phillip K Allen <phillip.allen@enron.com> Fri, 17 Nov 2000 00:27:00 -0800 (PST)
-9.Phillip K Allen <phillip.allen@enron.com> Thu, 18 Jan 2001 02:08:00 -0800 (PST)
-10.Phillip K Allen <phillip.allen@enron.com> Sun, 18 Feb 2001 11:50:00 -0800 (PST)
-11.Phillip K Allen <phillip.allen@enron.com> Fri, 16 Feb 2001 00:52:00 -0800 (PST)
-12.Phillip K Allen <phillip.allen@enron.com> Tue, 24 Oct 2000 06:29:00 -0700 (PDT)
+1.Phillip K Allen <phillip.allen@enron.com> Mon, 19 Mar 2001 01:36:00 -0800 (PST) \
+2.Phillip K Allen <phillip.allen@enron.com> Mon, 26 Mar 2001 02:58:00 -0800 (PST) \
+3.Phillip K Allen <phillip.allen@enron.com> Tue, 26 Sep 2000 09:26:00 -0700 (PDT) \
+4.Phillip K Allen <phillip.allen@enron.com> Fri, 26 May 2000 07:19:00 -0700 (PDT) \
+5.Phillip K Allen <phillip.allen@enron.com> Tue, 27 Mar 2001 03:37:00 -0800 (PST) \
+6.Phillip K Allen <phillip.allen@enron.com> Tue, 26 Sep 2000 09:28:00 -0700 (PDT) \
+7.Phillip K Allen <phillip.allen@enron.com> Thu, 11 Jan 2001 05:49:00 -0800 (PST) \
+8.Phillip K Allen <phillip.allen@enron.com> Fri, 17 Nov 2000 00:27:00 -0800 (PST) \
+9.Phillip K Allen <phillip.allen@enron.com> Thu, 18 Jan 2001 02:08:00 -0800 (PST) \
+10.Phillip K Allen <phillip.allen@enron.com> Sun, 18 Feb 2001 11:50:00 -0800 (PST) \
+11.Phillip K Allen <phillip.allen@enron.com> Fri, 16 Feb 2001 00:52:00 -0800 (PST) \
+12.Phillip K Allen <phillip.allen@enron.com> Tue, 24 Oct 2000 06:29:00 -0700 (PDT) \
 Results found: 12
 
 ## Authors
