@@ -6,20 +6,20 @@ We have implemented in python using default packages namely mailbox, os, re and 
 Packages to be used are given in the file packages.txt \
  - pyinstaller==4.2 \
  - pyinstaller-hooks-contrib==2020.11 \
- ***Note : To install these packages run the makefile*** \
+ ***Note : To install these packages run the makefile*** 
  `make` \
-  ***or run this command: ***
+  ***or run this command: *** \
  ` pip3 install -r packages.txt` for python 3 \
  ` pip install -r packages.txt` for python 2 \
 ## How to run
 The source code directory structure looks like: \
-. \ 
+. 
 ├── enron (directory of the .mbox files) \
 ├── enron_search.py \
 ├── makefile \
 ├── packages.txt \
 ├── readme.md \
-└── readme.txt \
+└── readme.txt
 
 **Step 1:** Adding Environment Varible or else mbox files
 Commands : 
@@ -34,7 +34,7 @@ Commands : `cp -r source/. ../enron`
 **Step 2:** Run the make file \ 
 Command: `make` \
 Make file should create three directories pycache / build / dist \
-. \
+.
 ├── __pycache__ \
 ├── build \
 ├── dist \
@@ -44,7 +44,7 @@ Make file should create three directories pycache / build / dist \
 ├── makefile \
 ├── packages.txt \
 ├── readme.md \
-└── readme.txt \
+└── readme.txt
 
 **Step 3:** Go to folder dist to find the executable file
 Command : `cd dist`
